@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm I'm Gabriela!</h1>
+<h1 align="center">Hi there 👋, I'm Gabriela!</h1>
 <h3 align="center">Graduating in Web Development, where I have invested most of my time with commitment and dedication.</h3>
 
 - 📫 How to reach me **gabrielaellen-@hotmail.com**
