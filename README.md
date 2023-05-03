@@ -1,12 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Gabriela!</h1>
 <h3 align="center">Graduating in Web Development, where I have invested most of my time with commitment and dedication.</h3>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif">
 
 - 📫 How to reach me **gabrielaellen-@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gabrielaelleen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabrielaelleen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabrielaellen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielaellen/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabrielaellen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielaellen/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
