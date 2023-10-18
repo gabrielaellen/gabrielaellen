@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriela!</h1>
 <h3 align="center">Graduating in Web Development, where I have invested most of my time with commitment and dedication.</h3>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif">
 
 - 🌱 I’m currently learning **Ruby, Rails, Python, Django**
 
