@@ -13,8 +13,6 @@
 
 ## 👩‍💻 Sobre mim
 
-<img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif">
-
 Curiosa por natureza e apaixonada por transformar problemas complexos em soluções simples e, claro, por aquele momento em que o código finalmente funciona. 🎯
 
 Formada em **Sistemas para Internet**, atualmente atuo como **Engenheira de Software Júnior**, desenvolvendo aplicações com **Ruby on Rails**.
